@@ -2,4 +2,6 @@
 
 Desktop application GUI for seamless chat and desktop automation with Ollama.
 
-![alt text](image.png)
+
+
+![alt text](image-1.png)
